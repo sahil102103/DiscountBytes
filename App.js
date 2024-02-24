@@ -4,6 +4,7 @@ import Header from './assets/header';
 import Footer from './assets/footer';
 import LoginScreen from './assets/loginScreen';
 
+
 export default function App() {
   return (
     <View style={styles.container}>
