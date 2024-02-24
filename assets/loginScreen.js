@@ -38,7 +38,7 @@ export default function LoginForm() {
 const styles = StyleSheet.create({
   container : {
     alignItems : "center",
-    paddingTop: 70,
+    paddingTop: '20vh',
   },
   title : {
     fontSize : 30,
